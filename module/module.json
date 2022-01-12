@@ -26,7 +26,11 @@
     "./init.js"
   ],
   "styles": [],
-  "languages": [],
+  "languages": [{
+    "lang": "en",
+    "name": "English",
+    "path": "./lang/en.json"
+  }],
   "license": "./LICENSE",
   "url": "",
   "bugs": "",
@@ -34,7 +38,7 @@
     "allowBugReporter": true
   },
   "changelog": "",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/module/module.json",
+  "download": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/package/ose-slot-encumbrance-v0.0.1.zip",
   "media": []
 }
