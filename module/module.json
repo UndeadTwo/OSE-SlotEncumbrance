@@ -1,0 +1,40 @@
+{
+  "name": "OSE Slot Encumbrance",
+  "title": "Old-School Essentials Slot Encumbrance",
+  "description": "Automates handling of the OSE Slot-based encumbrance rules.",
+  "version": "0.0.1",
+  "library": "false",
+  "manifestPlusVersion": "0.0.2",
+  "minimumCoreVersion": "0.8.5",
+  "compatibleCoreVersion": "0.8.9",
+  "type": "module",
+  "author": "Zackery Perryman",
+  "authors": [
+    {
+      "name": "Zak Perryman (UndeadTwo)",
+      "url": "https://github.com/UndeadTwo",
+      "email": "zack@arcaderespawn.com",
+      "discord": "Undead#7329",
+      "ko-fi": "",
+      "patreon": ""
+    }
+  ],
+  "dependencies": [],
+  "system": "ose",
+  "conflicts": [],
+  "esmodules": [
+    "./init.js"
+  ],
+  "styles": [],
+  "languages": [],
+  "license": "./LICENSE",
+  "url": "",
+  "bugs": "",
+  "flags": {
+    "allowBugReporter": true
+  },
+  "changelog": "",
+  "manifest": "",
+  "download": "",
+  "media": []
+}
