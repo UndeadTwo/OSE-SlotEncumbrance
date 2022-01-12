@@ -38,7 +38,7 @@
     "allowBugReporter": true
   },
   "changelog": "",
-  "manifest": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/module/module.json",
-  "download": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/package/ose-slot-encumbrance-v0.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/UndeadTwo/OSE-SlotEncumbrance/master/module/module.json",
+  "download": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/package/ose-slot-encumbrance-v0.0.1.zip?raw=true",
   "media": []
 }
