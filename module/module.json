@@ -2,7 +2,7 @@
   "name": "OSE Slot Encumbrance",
   "title": "Old-School Essentials Slot Encumbrance",
   "description": "Automates handling of the OSE Slot-based encumbrance rules.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "library": "false",
   "manifestPlusVersion": "0.0.2",
   "minimumCoreVersion": "0.8.5",
@@ -19,7 +19,12 @@
       "patreon": ""
     }
   ],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "ose",
+      "type": "system"
+    }
+  ],
   "system": "ose",
   "conflicts": [],
   "esmodules": [
@@ -39,6 +44,6 @@
   },
   "changelog": "",
   "manifest": "https://raw.githubusercontent.com/UndeadTwo/OSE-SlotEncumbrance/master/module/module.json",
-  "download": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/package/ose-slot-encumbrance-v0.0.1.zip?raw=true",
+  "download": "https://github.com/UndeadTwo/OSE-SlotEncumbrance/blob/master/package/ose-slot-encumbrance-v0.0.2.zip?raw=true",
   "media": []
 }
